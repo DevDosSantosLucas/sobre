@@ -1,7 +1,8 @@
-# SOBRE
+# CURRICULUM VITAE
+
 
 <h2>LUCAS RIBEIRO DOS SANTOS</h2>
-<h3>BIO</h3>
+
 <p>24 anos </p>
 <p>Araraquara-SP</p>
 <p>Celular: (16) 99723-7756 </p>
