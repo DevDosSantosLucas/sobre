@@ -2,19 +2,20 @@
 
 <h2>LUCAS RIBEIRO DOS SANTOS</h2>
 <h3>BIO</h3>
-<p>24 anos </br>
-Araraquara-SP</br>
-Celular: (16) 99723-7756 </br>
-E-mail: lucas1995ls@outlook.com</p>
+<p>24 anos </p>
+<p>Araraquara-SP</p>
+<p>Celular: (16) 99723-7756 </p>
+<p>E-mail: lucas1995ls@outlook.com</p>
 
 <h3>FORMAÇÃO:</h3>
 <p>Ensino Superior – Cursando 4° ano/7ºsemestre de Bacharelado em Ciências da Computação – Universidade UNIP.</p>
 
 <h3>EXPERIÊNCIAS:</h3>
-<p>Empresa: Objetivo Júnior</br>
-Função: Auxiliar na estruturação de turmas em sala de Informática (Estagiário) - 1 ano</br></br>
-Empresa: DXC Technology</br>
-Função: Analista de Sistema(Estagiando)</p>
+<p>Empresa: Objetivo Júnior</p>
+<p>Função: Auxiliar na estruturação de turmas em sala de Informática (Estagiário) - 1 ano</p>
+<p></p>
+<p>Empresa: DXC Technology</p>
+<p>Função: Analista de Sistema(Estagiando)</p>
 
 <h3>CURSOS</h3>
 <h4>Para Conhecimentos:</h4>
