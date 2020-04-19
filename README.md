@@ -21,8 +21,8 @@
 <h4>Para Conhecimentos:</h4>
 <ul>
   <li> Informática Básica - Microway Carga Horária: 172 horas</li>
-  <p> Módulos: Word 2007 - Excel 2007 - Power Point 2007 - Contabilidade Básica</br>
-      Photoshop Cs3 Extended - Desenvolvimento de Games I(Unity) </br>
+  <p> Módulos: Word 2007 - Excel 2007 - Power Point 2007 - Contabilidade Básica - 
+      Photoshop Cs3 Extended - Desenvolvimento de Games I - (Unity) 
       Desenvolvimento de Games II (Unity) - Flash cs3 - SketchUp</p>
   <li><p>Inglês Básico - Microway Carga Horária: 64 horas</p></li>
   <li><p>Inglês Intermediário - Prepara Cursos: 96 horas</p></li>
